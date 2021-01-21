@@ -5,7 +5,7 @@ android {
     buildToolsVersion "30.0.2"
 
     defaultConfig {
-        applicationId "com.example.third_program"
+        applicationId "com.example.fourth_program"
         minSdkVersion 26
         targetSdkVersion 30
         versionCode 1
